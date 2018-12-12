@@ -1,4 +1,4 @@
-# Vue-serverRender
+# Vue-ssr
 vue-cli3+vuex+vue-router+vue-server-renderer
 # npm（cnpm） install
 安装依赖包
